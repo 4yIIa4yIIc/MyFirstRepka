@@ -1,0 +1,13 @@
+C:\Users\Костян\source\repos\goodgame\BombsAway\bin\Debug\BombsAway.exe.config
+C:\Users\Костян\source\repos\goodgame\BombsAway\bin\Debug\BombsAway.exe
+C:\Users\Костян\source\repos\goodgame\BombsAway\bin\Debug\BombsAway.pdb
+C:\Users\Костян\source\repos\goodgame\BombsAway\obj\Debug\BombsAway.csprojAssemblyReference.cache
+C:\Users\Костян\source\repos\goodgame\BombsAway\obj\Debug\BombsAway.Character.resources
+C:\Users\Костян\source\repos\goodgame\BombsAway\obj\Debug\BombsAway.Enemy.resources
+C:\Users\Костян\source\repos\goodgame\BombsAway\obj\Debug\BombsAway.Form1.resources
+C:\Users\Костян\source\repos\goodgame\BombsAway\obj\Debug\BombsAway.Properties.Resources.resources
+C:\Users\Костян\source\repos\goodgame\BombsAway\obj\Debug\BombsAway.World.resources
+C:\Users\Костян\source\repos\goodgame\BombsAway\obj\Debug\BombsAway.csproj.GenerateResource.cache
+C:\Users\Костян\source\repos\goodgame\BombsAway\obj\Debug\BombsAway.csproj.CoreCompileInputs.cache
+C:\Users\Костян\source\repos\goodgame\BombsAway\obj\Debug\BombsAway.exe
+C:\Users\Костян\source\repos\goodgame\BombsAway\obj\Debug\BombsAway.pdb
